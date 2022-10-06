@@ -1,0 +1,5 @@
+console.log("Addition of two number is",3+5)
+console.log("Substraction of two number is",18-10)
+console.log("Multiplication of two number is", 4*2)
+console.log("Division of two number is",80/10)
+console.log("Reminder of two number is",800/100)
